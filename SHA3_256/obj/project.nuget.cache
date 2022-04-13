@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "PO/pqgcPU8EYaeTf4oeVmjdEJoXfrL5qnRcSyUEUKF9yRdgAHC1pVYnY7TYQi3DN4BiOnMRN61++gxBftteOIg==",
+  "success": true,
+  "projectFilePath": "C:\\2courseProgramming\\Itra\\.NET\\SHA3_256\\SHA3_256.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a3057\\.nuget\\packages\\seriesone.core\\1.0.8\\seriesone.core.1.0.8.nupkg.sha512",
+    "C:\\Users\\a3057\\.nuget\\packages\\sha3.net\\2.0.0\\sha3.net.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\2courseProgramming\Itra\.NET\Task2\Task2\bin\Debug\net5.0\Task2.exe
+C:\2courseProgramming\Itra\.NET\Task2\Task2\bin\Debug\net5.0\Task2.deps.json
+C:\2courseProgramming\Itra\.NET\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.json
+C:\2courseProgramming\Itra\.NET\Task2\Task2\bin\Debug\net5.0\Task2.runtimeconfig.dev.json
+C:\2courseProgramming\Itra\.NET\Task2\Task2\bin\Debug\net5.0\Task2.dll
+C:\2courseProgramming\Itra\.NET\Task2\Task2\bin\Debug\net5.0\ref\Task2.dll
+C:\2courseProgramming\Itra\.NET\Task2\Task2\bin\Debug\net5.0\Task2.pdb
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\Task2.csproj.AssemblyReference.cache
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfoInputs.cache
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\Task2.AssemblyInfo.cs
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\Task2.csproj.CoreCompileInputs.cache
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\Task2.dll
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\ref\Task2.dll
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\Task2.pdb
+C:\2courseProgramming\Itra\.NET\Task2\Task2\obj\Debug\net5.0\Task2.genruntimeconfig.cache

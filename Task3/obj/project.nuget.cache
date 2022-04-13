@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhhXb2hPaWpnfaGnIn/5XqsJNKFhPyDKIkAOfIpZYQaQypB61JbKdOnMKncy8OsQFosR4hbhC279ZsrrXNDLiQ==",
+  "success": true,
+  "projectFilePath": "C:\\2courseProgramming\\Itra\\.NET\\Task3\\Task3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a3057\\.nuget\\packages\\sha3.net\\2.0.0\\sha3.net.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
