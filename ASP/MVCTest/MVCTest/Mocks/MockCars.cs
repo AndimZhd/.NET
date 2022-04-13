@@ -1,6 +1,7 @@
 ﻿namespace MVCTest.Mocks
 {
-    public class MockCars
+    public class MockCars: 
     {
+
     }
 }

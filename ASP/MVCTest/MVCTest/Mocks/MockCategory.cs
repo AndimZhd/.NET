@@ -1,6 +1,7 @@
 ﻿namespace MVCTest.Mocks
 {
-    public class MockCategory
+    public class MockCategory: ICarsCategory
     {
+
     }
 }

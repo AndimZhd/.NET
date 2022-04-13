@@ -1,0 +1,8 @@
+﻿@model AuthApp.Models.UserContext
+<div class="row mt-5 mb-2">
+    @{
+        foreach(var user in Model.Users){
+            <p>Id: @user.Id, Email: @user.Email, Password: @user.Password </p>
+        }
+    }
+</div>
